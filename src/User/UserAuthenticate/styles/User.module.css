@@ -1,0 +1,63 @@
+.alignBackground {
+  background-image: url(https://i.pinimg.com/originals/bb/98/55/bb9855e4ce31410e9289453ddb447ceb.jpg);
+  background-position: top center;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  max-height: 100%;
+  background-repeat: no-repeat;
+  background-color: #444;
+  position: relative;
+  overflow-x: hidden;
+}
+
+.alignBackground:after {
+  content: "";
+  background-color: #032345;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  opacity: 0.5;
+}
+
+.alignForhead {
+  position: absolute !important;
+  opacity: 1.5;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  width: 150px;
+}
+
+.custFormH1 {
+  font-size: 42px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  color: #404b51;
+  line-height: 55px;
+  margin-bottom: -5px;
+}
+
+.btnPrimary {
+  display: block !important;
+  width: 100%;
+  /* margin-bottom: 15px; */
+  text-transform: uppercase;
+  /* padding: 10px 20px; */
+  border-radius: 30px !important;
+  margin-bottom: 1rem;
+}
+
+.custFormH2 {
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  color: #8e959a;
+  line-height: 37px;
+  margin-bottom: 10px;
+}

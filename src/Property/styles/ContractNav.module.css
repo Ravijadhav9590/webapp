@@ -1,0 +1,26 @@
+.spining_styla {
+  margin: 20px 0;
+  margin-bottom: 20px;
+  padding: 30px 50px;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.05);
+  border-radius: 4px;
+}
+
+.menuItemAlignment {
+  padding-left: 5px !important;
+  padding: 0 0 !important;
+}
+.menuCloseAlignment {
+  padding: 0 0 0 5px !important;
+}
+
+.subMenuItemAlignment > div {
+  padding-left: 5px !important;
+  padding-right: 5px !important;
+  margin-right: 5px !important;
+}
+
+.subMenuItemAlignment > div > i {
+  visibility: hidden !important;
+}

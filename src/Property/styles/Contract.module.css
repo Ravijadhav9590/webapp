@@ -1,0 +1,62 @@
+/* input[type="date"]::-webkit-inner-spin-button,
+::-webkit-calendar-picker-indicator {
+  -webkit-appearance: none;
+  position: absolute;
+  right: 0;
+  opacity: 0;
+  width: 100%;
+}
+
+.site_layout_content {
+  min-height: 280px;
+  padding: 24px;
+  background: #fff;
+}
+
+.site_layout {
+  padding: 0 50px;
+  margin-top: 64px;
+}
+
+@media (min-width: 320px) {
+  .site_layout {
+    padding: 0 0;
+    margin-top: 64;
+    background: #fff;
+  }
+}
+@media (min-width: 480px) {
+  .site_layout {
+    padding: 0 0;
+    margin-top: 64;
+    background: #fff;
+  }
+}
+@media (min-width: 600px) {
+  .site_layout {
+    padding: 0 50px;
+    margin-top: 64;
+    background: #fff;
+  }
+}
+@media (min-width: 801px) {
+  .site_layout {
+    padding: 0 50px;
+    margin-top: 64;
+    background: #fff;
+  }
+}
+@media (min-width: 1025px) {
+  .site_layout {
+    padding: 0 50px;
+    margin-top: 64;
+    background: #fff;
+  }
+}
+@media (min-width: 1281px) {
+  .site_layout {
+    padding: 0 50px;
+    margin-top: 64;
+    background: #fff;
+  }
+} */
